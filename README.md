@@ -3,18 +3,18 @@
 
 動畫標題(部分)如下:
 
-![cchat1](/PTT_CCHAT動畫標題.PNG)
+![cchat1](/readme/PTT_CCHAT動畫標題.PNG)
 
 推文投票(部分)如下:
 
-![cchat2](/PTT_CCHAT推文投票.PNG)
+![cchat2](/readme/PTT_CCHAT推文投票.PNG)
 
 ## 爬蟲、資料擷取之困難
 文章**主體**部分
 
 原始碼擷取(部分)如下:
 
-![cchat3](/文章主體原始碼.PNG)
+![cchat3](/readme/文章主體原始碼.PNG)
 
 
 ## 2019年動畫票數統計
