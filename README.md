@@ -45,6 +45,6 @@
 
  ![cchat7](/readme/PTT_CCHAT推文投票結果.PNG)
  
-確認計票結果後，將結果輸出為CSV檔，利用PowerBI進一步將投票結果視覺化及增加可互動性
+確認計票結果後，將結果輸出為CSV檔，利用PowerBI進一步將投票結果視覺化及增加可互動性。
 
  ![cchat](/readme/C_CHAT票數視覺化.PNG)
